@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Add a custom command!",
+    "DESCRIPTION": "Eigenen Befehl hinzufügen!",
     "USAGE": "{{prefix}}addcommand [name] [answer]",
-    "EXAMPLES": "{{prefix}}addcommand hello Hello {user}! How are you?",
-    "MISSING_NAME": "Please provide a command name!",
-    "MISSING_ANSWER": "Please provide a command answer!",
-    "SUCCESS": "Command **{{prefix}}{{commandName}}** added!"
+    "EXAMPLES": "{{prefix}}addcommand hallo Hallo {user}! Wie geht es dir?",
+    "MISSING_NAME": "Bitte einen Namen für den Befehl angeben!",
+    "MISSING_ANSWER": "Bitte eine Antwort für den Befehl angeben!",
+    "SUCCESS": "Befehl **{{prefix}}{{commandName}}** hinzugefügt!"
 }

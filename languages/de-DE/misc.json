@@ -14,7 +14,7 @@
     "NO_USER_FOUND_ID": "Kein Nutzer auf Discord hat die ID `{{id}}`!",
     "VOTE_DM": "⬆️ Hallo {{user}}, Danke für deine Wahl!\nHier ist deine Belohnung: 40 Credits (auf dem Support-Server)!",
     "VOTE_LOGS": "⬆️ **{{usertag}}** (`{{userid}}`) hat für **SquadStatJSv3** gestimmt und hat **40** Credits gewonnen, danke!\n<https://discordbots.org/bot/557445719892688897/vote>",
-    "HELLO_SERVER": "Hallo **{{username}}**, mein Präfix auf dem Server ist `{{prefix}}`. Nutze `{{prefix}}hilfe` um eine Liste der Befehle zu erhalten!",
+    "HELLO_SERVER": "Hallo **{{username}}**, mein Präfix auf dem Server ist `{{prefix}}`. Nutze `{{prefix}}help` um eine Liste der Befehle zu erhalten!",
     "HELLO_DM": "Hallo **{{username}}**, da wir uns gerade im privaten Chat befinden, musst du nicht den Präfix benutzen.",
     "GUILD_ONLY": "Dieser Befehl ist nur auf einem Server verfügbar!",
     "MISSING_BOT_PERMS": "Ich benötige die folgenden Berechtigungen, um diesen Befehl auszuführen: {{list}}",
